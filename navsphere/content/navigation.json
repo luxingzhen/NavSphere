@@ -36,6 +36,14 @@
           "href": "https://my.vultr.com/",
           "description": "访问 my.vultr.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=my.vultr.com"
+        },
+        {
+          "id": "item-1762949916029",
+          "enabled": true,
+          "title": "Google",
+          "href": "https://www.google.com/",
+          "description": "访问 www.google.com",
+          "icon": "/assets/favicon_1762949910189.png"
         }
       ],
       "subCategories": [],
