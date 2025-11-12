@@ -28,6 +28,14 @@
           "href": "https://www.youtube.com/",
           "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
           "icon": "/assets/favicon_1762937314505.png"
+        },
+        {
+          "id": "item-1762949634222",
+          "enabled": true,
+          "title": "Products - Vultr.com",
+          "href": "https://my.vultr.com/",
+          "description": "访问 my.vultr.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=my.vultr.com"
         }
       ],
       "subCategories": [],
