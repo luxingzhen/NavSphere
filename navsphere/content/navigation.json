@@ -44,6 +44,14 @@
           "href": "https://www.google.com/",
           "description": "访问 www.google.com",
           "icon": "/assets/favicon_1762949910189.png"
+        },
+        {
+          "id": "item-1762953522788",
+          "enabled": true,
+          "title": "jd.xy2srfwqs.top – 欢迎",
+          "href": "https://jd.xy2srfwqs.top:32738/lNuryJaK1M2rt4WWYH/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jd.xy2srfwqs.top"
         }
       ],
       "subCategories": [],
