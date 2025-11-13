@@ -297,6 +297,14 @@
           "href": "https://ollama.com/huihui_ai",
           "description": "support@huihui.ai",
           "icon": "/assets/favicon_1763004341959.png"
+        },
+        {
+          "id": "item-1763004421869",
+          "enabled": true,
+          "title": "deepseek-ai/DeepSeek-R1 - Demo - DeepInfra",
+          "href": "https://deepinfra.com/deepseek-ai/DeepSeek-R1",
+          "description": "We introduce DeepSeek-R1, which incorporates cold-start data before RL. DeepSeek-R1 achieves performance comparable to OpenAI-o1 across math, code, and reasoning tasks. . Try out API on the Web",
+          "icon": "/assets/favicon_1763004418591.png"
         }
       ],
       "subCategories": []
