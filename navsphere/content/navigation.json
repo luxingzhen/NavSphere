@@ -118,6 +118,14 @@
               "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
               "icon": "/assets/favicon_1759046289851.png",
               "enabled": true
+            },
+            {
+              "id": "item-1763004326836",
+              "enabled": true,
+              "title": "超爆款|工笔画|古风|少女|Q版|风格SDXL-LoRA-发小呆的AI世界-LiblibAI",
+              "href": "https://www.liblib.art/modelinfo/ee37966b88a24aa9b417694c6b0f076a?from=feed&versionUuid=e26e89659f2e48488721e3682a8a564d",
+              "description": "因为需要迭代暂时停止下载泛化性非常强写实二次元都有很好的适配简单的提示词也能出好图步数建议步权重提示词里加版就可以出版风格",
+              "icon": "/assets/favicon_1763004316561.png"
             }
           ]
         },
