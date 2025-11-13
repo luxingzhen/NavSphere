@@ -288,6 +288,14 @@
           "href": "https://wbsts1.me/#/dashboard",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wbsts1.me"
+        },
+        {
+          "id": "item-1763001784627",
+          "enabled": true,
+          "title": "Releases · byJoey/cfnew",
+          "href": "https://github.com/byJoey/cfnew",
+          "description": "Contribute to byJoey/cfnew development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1763001783080.png"
         }
       ],
       "subCategories": []
