@@ -60,6 +60,14 @@
           "href": "https://mail.proton.me/u/0/inbox?welcome=true",
           "description": "Proton Mail is based in Switzerland and uses advanced encryption to keep your data safe. Apps available for Android, iOS, and desktop devices.",
           "icon": "/assets/favicon_1763018693867.ico"
+        },
+        {
+          "id": "item-1763018792975",
+          "enabled": true,
+          "title": "OpenAI Platform",
+          "href": "https://platform.openai.com/api-keys",
+          "description": "Explore resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI",
+          "icon": "/assets/favicon_1763018790912.png"
         }
       ],
       "subCategories": [],
