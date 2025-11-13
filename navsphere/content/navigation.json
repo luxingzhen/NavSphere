@@ -289,6 +289,14 @@
           "href": "https://chat.qwen.ai/",
           "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
           "icon": "/assets/favicon_1763004286513.png"
+        },
+        {
+          "id": "item-1763004348420",
+          "enabled": true,
+          "title": "huihui_ai",
+          "href": "https://ollama.com/huihui_ai",
+          "description": "support@huihui.ai",
+          "icon": "/assets/favicon_1763004341959.png"
         }
       ],
       "subCategories": []
