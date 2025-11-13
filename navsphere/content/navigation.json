@@ -280,6 +280,14 @@
           "href": "https://xn--3lr80gc1sl4l.xyz/#/dashboard",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=xn--3lr80gc1sl4l.xyz"
+        },
+        {
+          "id": "item-1763001646450",
+          "enabled": true,
+          "title": "我不是梯神",
+          "href": "https://wbsts1.me/#/dashboard",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wbsts1.me"
         }
       ],
       "subCategories": []
