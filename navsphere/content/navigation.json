@@ -265,6 +265,14 @@
           "href": "https://aistudio.google.com/api-keys",
           "description": "The fastest path from prompt to production with Gemini",
           "icon": "/assets/favicon_1763003755375.png"
+        },
+        {
+          "id": "item-1763004173253",
+          "enabled": true,
+          "title": "Google Gemini",
+          "href": "https://gemini.google.com/app",
+          "description": "访问 gemini.google.com",
+          "icon": "/assets/favicon_1763004169446.png"
         }
       ],
       "subCategories": []
