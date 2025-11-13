@@ -224,6 +224,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1763001054293",
+      "title": "服务器",
+      "icon": "FolderKanban",
+      "description": "服务器跟配套",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
