@@ -257,6 +257,14 @@
           "href": "https://www.openai-hk.com/v3/ai/key",
           "description": "",
           "icon": "/assets/favicon_1763003738703.svg"
+        },
+        {
+          "id": "item-1763003758228",
+          "enabled": true,
+          "title": "Google AI Studio",
+          "href": "https://aistudio.google.com/api-keys",
+          "description": "The fastest path from prompt to production with Gemini",
+          "icon": "/assets/favicon_1763003755375.png"
         }
       ],
       "subCategories": []
