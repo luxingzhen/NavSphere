@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon"
+        href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNjcxNzg3OTM4OTUwIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjI2OTYiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiPjxwYXRoIGQ9Ik0yNjcuMTY4IDQ1NC42MjR2MzE2LjQ4aDE1MlY1OTguMjI0YzAtNi4xNDQgNC45OTItMTEuMTIgMTEuMTM2LTExLjEyaDE2OS43MjhjNi4xNiAwIDExLjEzNiA0Ljk3NiAxMS4xMzYgMTEuMTJ2MTcyLjg4aDEzNlY0NTMuNmwtMjM5LjM2LTE4OC44NDgtMjQwLjY0IDE4OS44NTZ6IG0tNDggMzcuODcybC0zOS4zNiAzMS4wNGExNiAxNiAwIDAgMS0yMi40NjQtMi42NTZsLTkuOTA0LTEyLjU2YTE2IDE2IDAgMCAxIDIuNjU2LTIyLjQ2NGwzNDcuNzkyLTI3NC40MTZhMTYgMTYgMCAwIDEgMTkuODQgMGwzNDcuNzkyIDI3NC40YTE2IDE2IDAgMCAxIDIuNjU2IDIyLjQ4bC05LjkyIDEyLjU2YTE2IDE2IDAgMCAxLTIyLjQ2NCAyLjY1NmwtNDAuNjI0LTMyLjA0OHYyOTIuNDhhMzUuMTM2IDM1LjEzNiAwIDAgMS0zNS4xMzYgMzUuMTM2SDI1NC4zMDRhMzUuMTM2IDM1LjEzNiAwIDAgMS0zNS4xMzYtMzUuMTM2VjQ5Mi40OTZ6IG0yNDggMjcwLjYwOGg5NnYtMTI4aC05NnYxMjh6IiBmaWxsPSIjMTI5NmRiIiBwLWlkPSIyNjk3Ij48L3BhdGg+PC9zdmc+"
+        type="image/x-icon">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        p {
+            font-size: 1.5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <p>请等待 <span id="time1">5</span> 秒</p>
+        <p>Please wait <span id="time2">5</span> seconds</p>
+    </div>
+    <script>
+        function setCookie(name, value, days) {
+            var expires = "";
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (6000 * 60 * 24 * days));
+                expires = "; expires=" + date.toUTCString();
+            }
+            document.cookie = name + "=" + (value || "") + expires + "; path=/";
+        }
+
+        function getCookie(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i].trim();
+                if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+            }
+            return "";
+        }
+
+        var time = 5;
+        var id = setInterval(showTime, 1000);
+        var token = 'hBPfWHBoJehGTPDHCWxPrjhiHKBbANSg';
+        var renew = true;
+
+        function showTime() {
+
+            if (time <= 0) {
+
+                if (renew) {
+                    setCookie("wafauthorization", `${token}`, 1);
+                }
+                location.reload();
+            } else {
+                time--;
+            }
+            document.getElementById("time1").innerText = time;
+            document.getElementById("time2").innerText = time;
+        }
+    </script>
+</body>
+
+</html>
