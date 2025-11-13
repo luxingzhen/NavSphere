@@ -313,6 +313,14 @@
           "href": "https://brave.com/zh/search/api/",
           "description": "使用全球最大的网络搜索 API 为您的 AI 助力",
           "icon": "/assets/favicon_1763004446875.ico"
+        },
+        {
+          "id": "item-1763004470708",
+          "enabled": true,
+          "title": "punkpeye/awesome-mcp-servers: A collection of MCP servers.",
+          "href": "https://github.com/punkpeye/awesome-mcp-servers?tab=readme-ov-file#other-tools-and-integrations",
+          "description": "A collection of MCP servers. Contribute to punkpeye/awesome-mcp-servers development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1763004467840.png"
         }
       ],
       "subCategories": []
