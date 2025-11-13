@@ -249,7 +249,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1763003745269",
+          "enabled": true,
+          "title": "MY KEY-OpenAI-HK",
+          "href": "https://www.openai-hk.com/v3/ai/key",
+          "description": "",
+          "icon": "/assets/favicon_1763003738703.svg"
+        }
+      ],
       "subCategories": []
     }
   ]
