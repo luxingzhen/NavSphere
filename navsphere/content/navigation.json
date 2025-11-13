@@ -256,6 +256,14 @@
           "href": "https://fn1.595780.xyz/#/dashboard",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=fn1.595780.xyz"
+        },
+        {
+          "id": "item-1763001415418",
+          "enabled": true,
+          "title": "rancho",
+          "href": "https://mm.mcwy.pro/#/dashboard",
+          "description": "",
+          "icon": "/assets/favicon_1763001412374.png"
         }
       ],
       "subCategories": []
