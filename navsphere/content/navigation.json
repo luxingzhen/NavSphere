@@ -248,6 +248,14 @@
           "href": "https://www.linedo.org/#/dashboard",
           "description": "访问 www.linedo.org",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.linedo.org"
+        },
+        {
+          "id": "item-1763001382146",
+          "enabled": true,
+          "title": "飞鸟云",
+          "href": "https://fn1.595780.xyz/#/dashboard",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fn1.595780.xyz"
         }
       ],
       "subCategories": []
