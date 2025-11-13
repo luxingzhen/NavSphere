@@ -272,6 +272,14 @@
           "href": "https://blog.cmliussss.com/p/CloudFlare%E4%BC%98%E9%80%89/",
           "description": ".copy-domain {     display: inline-flex;     align-items: center;     gap: 6px;     padding: 4px 8px;     background: linear-gradient(135deg, #667eea",
           "icon": "/assets/favicon_1763001577816.ico"
+        },
+        {
+          "id": "item-1763001616298",
+          "enabled": true,
+          "title": "卷王机场",
+          "href": "https://xn--3lr80gc1sl4l.xyz/#/dashboard",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xn--3lr80gc1sl4l.xyz"
         }
       ],
       "subCategories": []
