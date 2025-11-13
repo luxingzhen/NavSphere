@@ -264,6 +264,14 @@
           "href": "https://mm.mcwy.pro/#/dashboard",
           "description": "",
           "icon": "/assets/favicon_1763001412374.png"
+        },
+        {
+          "id": "item-1763001580283",
+          "enabled": true,
+          "title": "CloudFlare中国大陆地区优选方案汇总 | CMLiussss Blog",
+          "href": "https://blog.cmliussss.com/p/CloudFlare%E4%BC%98%E9%80%89/",
+          "description": ".copy-domain {     display: inline-flex;     align-items: center;     gap: 6px;     padding: 4px 8px;     background: linear-gradient(135deg, #667eea",
+          "icon": "/assets/favicon_1763001577816.ico"
         }
       ],
       "subCategories": []
