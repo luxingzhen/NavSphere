@@ -231,16 +231,16 @@
       "icon": "FolderKanban",
       "description": "服务器跟配套",
       "enabled": true,
-      "items": [
-        {
-          "id": "item-1763001093114",
-          "enabled": true,
-          "title": "HostVDS.com - 实例",
-          "href": "https://hostvds.com/control/servers/list",
-          "description": "",
-          "icon": "/assets/favicon_1763001086077.png"
-        }
-      ],
+      "items": [],
+      "subCategories": []
+    },
+    {
+      "id": "1763001331579",
+      "title": "机场",
+      "icon": "FolderKanban",
+      "description": "商业机场跟配套",
+      "enabled": true,
+      "items": [],
       "subCategories": []
     }
   ]
