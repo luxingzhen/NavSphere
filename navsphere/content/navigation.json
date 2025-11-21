@@ -288,6 +288,14 @@
           "href": "https://daili.xy2srfwqs.top/admin",
           "description": "因为KV空间有限，所以只保留4MB的操作日志，当日志大小超过该容量会自动清理最老的日志记录。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=daili.xy2srfwqs.top"
+        },
+        {
+          "id": "item-1763726084579",
+          "enabled": true,
+          "title": "周润发公益订阅器",
+          "href": "https://zrf.zrf.me/sub",
+          "description": "",
+          "icon": "https://blog.zrf.me/favicon.ico"
         }
       ],
       "subCategories": []
