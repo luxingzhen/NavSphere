@@ -304,6 +304,14 @@
           "href": "https://ping0.cc/",
           "description": "240e:345:7d5c:f701:b016:d250:d099:e8fa-4134-Chinanet Backbone-Chinatelecom IPv6 address for fixed broadband-www.chinatelecom.com.cn-www.chinatelecom.com.cn-www.chinatelecom.com.cn",
           "icon": "/assets/favicon_1763726738611.png"
+        },
+        {
+          "id": "item-1763727768556",
+          "enabled": true,
+          "title": "BPB面板快速搭建CDN节点 优选IP 锁定IP域区 | 周润发博客",
+          "href": "https://blog.zrf.me/p/38/",
+          "description": "利用Cloudflare搭建免费vless上网节点。优选IP和反代IP，锁定IP区域",
+          "icon": "/assets/favicon_1763727765111.png"
         }
       ],
       "subCategories": []
