@@ -264,7 +264,16 @@
       "icon": "FolderKanban",
       "description": "商业机场跟配套",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1763713587621",
+          "enabled": true,
+          "title": "MISUB",
+          "href": "https://b3c143c2.misub-4b5.pages.dev/",
+          "description": "基于 Cloudflare 的订阅转换和管理工具",
+          "icon": "https://b3c143c2.misub-4b5.pages.dev/data:image/svg+xml,%3csvg xmlns="
+        }
+      ],
       "subCategories": []
     },
     {
