@@ -142,6 +142,14 @@
               "href": "https://www.liblib.art/modelinfo/ee37966b88a24aa9b417694c6b0f076a?from=feed&versionUuid=e26e89659f2e48488721e3682a8a564d",
               "description": "因为需要迭代暂时停止下载泛化性非常强写实二次元都有很好的适配简单的提示词也能出好图步数建议步权重提示词里加版就可以出版风格",
               "icon": "/assets/favicon_1763004316561.png"
+            },
+            {
+              "id": "item-1763798665370",
+              "enabled": true,
+              "title": "Google AI Studio",
+              "href": "https://aistudio.google.com/prompts/1G82jX5ZZQNCZantdteYHt9qNuE6Gsu1z",
+              "description": "The fastest path from prompt to production with Gemini",
+              "icon": "/assets/favicon_1763798655354.png"
             }
           ]
         },
