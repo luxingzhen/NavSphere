@@ -150,6 +150,14 @@
               "href": "https://aistudio.google.com/prompts/1G82jX5ZZQNCZantdteYHt9qNuE6Gsu1z",
               "description": "The fastest path from prompt to production with Gemini",
               "icon": "/assets/favicon_1763798655354.png"
+            },
+            {
+              "id": "item-1764074996681",
+              "enabled": true,
+              "title": "Google AI Studio",
+              "href": "https://aistudio.google.com/apps",
+              "description": "The fastest path from prompt to production with Gemini",
+              "icon": "/assets/favicon_1764074994664.png"
             }
           ]
         },
