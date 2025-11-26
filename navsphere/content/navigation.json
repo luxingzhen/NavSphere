@@ -68,6 +68,14 @@
           "href": "https://platform.openai.com/api-keys",
           "description": "Explore resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI",
           "icon": "/assets/favicon_1763018790912.png"
+        },
+        {
+          "id": "item-1764161178336",
+          "enabled": true,
+          "title": "Discord的密码重置请求 - xy2luxingzhen2@gmail.com - Gmail",
+          "href": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQcqtlSsSWMzzRcjrDrVWFFTttC",
+          "description": "访问 mail.google.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mail.google.com"
         }
       ],
       "subCategories": [],
