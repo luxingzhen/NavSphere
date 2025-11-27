@@ -287,7 +287,16 @@
       "icon": "FolderKanban",
       "description": "服务器跟配套",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1764222445953",
+          "enabled": true,
+          "title": "GCLI2API 控制面板",
+          "href": "https://dailu.zeabur.app/",
+          "description": "访问 dailu.zeabur.app",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dailu.zeabur.app"
+        }
+      ],
       "subCategories": []
     },
     {
