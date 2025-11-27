@@ -303,6 +303,14 @@
           "href": "https://zeabur.com/projects/6927e57f1fa1a6a7c12aa90f/services/6927e5801fa1a6a7c12aa911?envID=6927e57f9ded7fb3e124eb34",
           "description": "",
           "icon": "/assets/favicon_1764222454685.png"
+        },
+        {
+          "id": "item-1764222484673",
+          "enabled": true,
+          "title": "Koyeb",
+          "href": "https://app.koyeb.com/services/new?instance_type=free&regions=was&step=serviceType&type=docker",
+          "description": "Koyeb is a developer-friendly serverless platform to deploy apps globally. No-ops, servers, and infrastructure management.",
+          "icon": "/assets/favicon_1764222478050.png"
         }
       ],
       "subCategories": []
