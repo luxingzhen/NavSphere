@@ -377,6 +377,14 @@
           "href": "https://blog.zrf.me/p/38/",
           "description": "利用Cloudflare搭建免费vless上网节点。优选IP和反代IP，锁定IP区域",
           "icon": "/assets/favicon_1763727765111.png"
+        },
+        {
+          "id": "item-1764406628383",
+          "enabled": true,
+          "title": "edgetunnel 设置页面 - 管理后台",
+          "href": "https://edtbb.pages.dev/ADMIN",
+          "description": "因为KV空间有限，所以只保留4MB的操作日志，当日志大小超过该容量会自动清理最老的日志记录。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=edtbb.pages.dev"
         }
       ],
       "subCategories": []
