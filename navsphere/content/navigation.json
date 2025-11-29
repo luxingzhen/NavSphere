@@ -385,6 +385,14 @@
           "href": "https://edtbb.pages.dev/ADMIN",
           "description": "因为KV空间有限，所以只保留4MB的操作日志，当日志大小超过该容量会自动清理最老的日志记录。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=edtbb.pages.dev"
+        },
+        {
+          "id": "item-1764427204802",
+          "enabled": true,
+          "title": "归档 | CMLiussss Blog",
+          "href": "https://blog.cmliussss.com/archives/",
+          "description": "访问 blog.cmliussss.com",
+          "icon": "/assets/favicon_1764427203405.png"
         }
       ],
       "subCategories": []
