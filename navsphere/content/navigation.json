@@ -319,6 +319,14 @@
           "href": "https://app.koyeb.com/services/new?instance_type=free&regions=was&step=serviceType&type=docker",
           "description": "Koyeb is a developer-friendly serverless platform to deploy apps globally. No-ops, servers, and infrastructure management.",
           "icon": "/assets/favicon_1764222478050.png"
+        },
+        {
+          "id": "item-1764474099348",
+          "enabled": true,
+          "title": "NameSilo - 控制面板",
+          "href": "https://www.namesilo.com/account/",
+          "description": "访问 www.namesilo.com",
+          "icon": "/assets/favicon_1764474083155.png"
         }
       ],
       "subCategories": []
