@@ -478,6 +478,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1764599169589",
+      "title": "娱乐",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
