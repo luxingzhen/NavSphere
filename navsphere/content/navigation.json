@@ -401,6 +401,14 @@
           "href": "https://blog.cmliussss.com/archives/",
           "description": "访问 blog.cmliussss.com",
           "icon": "/assets/favicon_1764427203405.png"
+        },
+        {
+          "id": "item-1764643832184",
+          "enabled": true,
+          "title": "Cloudflare IP 收集器",
+          "href": "https://dy.xy2srfwqs.top/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dy.xy2srfwqs.top"
         }
       ],
       "subCategories": []
