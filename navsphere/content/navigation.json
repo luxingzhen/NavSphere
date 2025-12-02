@@ -517,6 +517,14 @@
           "href": "https://62e098ea.moontv-ziyong-397.pages.dev/douban?type=movie",
           "description": "影视聚合",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=62e098ea.moontv-ziyong-397.pages.dev"
+        },
+        {
+          "id": "item-1764688033006",
+          "enabled": true,
+          "title": "MoonTV",
+          "href": "http://31.57.62.144:3000/live",
+          "description": "访问 31.57.62.144",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=31.57.62.144"
         }
       ],
       "subCategories": []
