@@ -501,7 +501,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1764658696935",
+          "enabled": true,
+          "title": "分类管理 - 管理系统",
+          "href": "http://31.57.62.144:21007/site/#/sites/1/video/contentType",
+          "description": "访问 31.57.62.144",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=31.57.62.144"
+        }
+      ],
       "subCategories": []
     }
   ]
