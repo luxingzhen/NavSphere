@@ -84,6 +84,14 @@
           "href": "https://mail.qq.com/cgi-bin/frame_html?sid=qsnRuJIyyp64c0Ir&r=5f8a1b50dc596d7825dfc3b3b338ab49&lang=zh",
           "description": "访问 mail.qq.com",
           "icon": "/assets/favicon_1764163310222.png"
+        },
+        {
+          "id": "item-1765032837037",
+          "enabled": true,
+          "title": "PanSou 盘搜",
+          "href": "http://192.168.50.18:8080/",
+          "description": "访问 192.168.50.18",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.18"
         }
       ],
       "subCategories": [],
