@@ -565,6 +565,14 @@
           "href": "http://192.168.50.18:3000/source-browser?source=siwazyw.tv&id=556631&year=unknown&title=",
           "description": "访问 192.168.50.18",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.18"
+        },
+        {
+          "id": "item-1765117987867",
+          "enabled": true,
+          "title": "PanSou 盘搜",
+          "href": "http://192.168.50.18:8080/",
+          "description": "访问 192.168.50.18",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.18"
         }
       ],
       "subCategories": []
