@@ -581,6 +581,14 @@
           "href": "http://192.168.50.18:4567/#/sites",
           "description": "访问 192.168.50.18",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.18"
+        },
+        {
+          "id": "item-1765122794017",
+          "enabled": true,
+          "title": "115/电视剧",
+          "href": "http://192.168.50.18:6908/web/index.html#!/tv?serverId=6abad657bd674ad7b70371da7c9d1d87&parentId=1869322",
+          "description": "访问 192.168.50.18",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.18"
         }
       ],
       "subCategories": []
