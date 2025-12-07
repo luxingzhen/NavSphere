@@ -557,6 +557,14 @@
           "href": "https://www.cpolar.com/blog/feiniu-os-joins-hands-with-xiaoyas-all-in-one-suite-ushering-in-a-new-era-of-over-100000-audio-visual-libraries",
           "description": "飞牛OS以其稳定高效的系统架构和友好的用户界面，成为NAS领域的佼佼者；而小雅全家桶则凭借强大的影视资源整合能力，深受影视爱好者的青睐。当二者相遇，不仅实现了资源的高效管理与快速更新，更带来了前所未有的观影自由度和内容多样性。",
           "icon": "/assets/favicon_1765117921903.png"
+        },
+        {
+          "id": "item-1765117966851",
+          "enabled": true,
+          "title": "LunaTV Enhanced",
+          "href": "http://192.168.50.18:3000/source-browser?source=siwazyw.tv&id=556631&year=unknown&title=",
+          "description": "访问 192.168.50.18",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.18"
         }
       ],
       "subCategories": []
