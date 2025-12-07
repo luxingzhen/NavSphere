@@ -573,6 +573,14 @@
           "href": "http://192.168.50.18:8080/",
           "description": "访问 192.168.50.18",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.18"
+        },
+        {
+          "id": "item-1765122771800",
+          "enabled": true,
+          "title": "G-Box - AList",
+          "href": "http://192.168.50.18:4567/#/sites",
+          "description": "访问 192.168.50.18",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.18"
         }
       ],
       "subCategories": []
