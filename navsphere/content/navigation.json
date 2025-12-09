@@ -597,6 +597,14 @@
           "href": "http://192.168.50.17:3001/edit/subs/lianshi",
           "description": "访问 192.168.50.17",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.17"
+        },
+        {
+          "id": "item-1765270002263",
+          "enabled": true,
+          "title": "网站测速_网站速度诊断_HTTP速度测速_WEB速度测试_CDN测速_API测速_多线路速度测试_多地区速度测试",
+          "href": "https://www.itdog.cn/http/",
+          "description": "访问 www.itdog.cn",
+          "icon": "/assets/favicon_1765269995709.png"
         }
       ],
       "subCategories": []
