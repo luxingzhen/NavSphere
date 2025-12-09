@@ -605,6 +605,14 @@
           "href": "https://www.itdog.cn/http/",
           "description": "访问 www.itdog.cn",
           "icon": "/assets/favicon_1765269995709.png"
+        },
+        {
+          "id": "item-1765285868276",
+          "enabled": true,
+          "title": "zashboard | 代理",
+          "href": "http://192.168.50.3:9090/ui/?host=192.168.50.3&hostname=192.168.50.3&port=9090&secret=997544#/proxies",
+          "description": "访问 192.168.50.3",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.50.3"
         }
       ],
       "subCategories": []
